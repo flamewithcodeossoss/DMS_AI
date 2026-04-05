@@ -1,6 +1,6 @@
 ﻿# Medical Document Management System Analyzer
 
-An AI-powered medical document analysis system that extracts structured clinical insights from PDFs, images, and raw text using a Retrieval-Augmented Generation (RAG) pipeline. Both the backend **and** the frontend are fully hosted on **Modal** (serverless) — no local server needed.
+An AI-powered medical document analysis system that extracts structured clinical insights from PDFs, images, pipeline. Both the backend **and** the frontend are fully hosted on **Modal** (serverless) — no local server needed.
 
 **Live App:** https://waitforossoss14--medical-rag-dms-streamlit-ui.modal.run
 **API Docs:** https://waitforossoss14--medical-rag-dms-fastapi-app.modal.run/docs
