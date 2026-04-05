@@ -1,4 +1,4 @@
-﻿# Medical RAG Document Management System
+﻿# Medical Document Management System Analyzer
 
 An AI-powered medical document analysis system that extracts structured clinical insights from PDFs, images, and raw text using a Retrieval-Augmented Generation (RAG) pipeline. Both the backend **and** the frontend are fully hosted on **Modal** (serverless) — no local server needed.
 
@@ -19,7 +19,7 @@ An AI-powered medical document analysis system that extracts structured clinical
 
 ## Approach
 
-The system follows a classic **RAG (Retrieval-Augmented Generation)** pipeline adapted for medical document understanding:
+The system follows a pipeline adapted for medical document understanding:
 
 ### 1. Document Ingestion & Extraction
 - **PDFs** → text extracted page-by-page using `pymupdf`
